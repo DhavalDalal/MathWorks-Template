@@ -3,9 +3,6 @@ package org.agileindia.mathworks;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Predicate;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 public class Filter {
     public static List<Integer> selectPrime(List<Integer> numbers) {
